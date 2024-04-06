@@ -1,1 +1,1 @@
-## Simple RPG game using basic Javascript
+## Simple Text based RPG game using basic Javascript
